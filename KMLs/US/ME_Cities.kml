@@ -52,50 +52,11 @@
 <Folder id="kml_ft_cb_2017_23_place_500k">
 <name>cb_2017_23_place_500k</name>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Alfred&lt;closeparen&gt;</name>
+<name>Alfred</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>00695</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02747297</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2300695</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2300695</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Alfred</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>10173804</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>77545</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">00695</SimpleData>
-<SimpleData name="PLACENS">02747297</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2300695</SimpleData>
-<SimpleData name="GEOID">2300695</SimpleData>
-<SimpleData name="NAME">Alfred</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">10173804</SimpleData>
-<SimpleData name="AWATER">77545</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -108,50 +69,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Anson&lt;closeparen&gt;</name>
+<name>Anson</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>01360</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377887</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2301360</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2301360</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Anson</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>3354525</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>164243</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">01360</SimpleData>
-<SimpleData name="PLACENS">02377887</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2301360</SimpleData>
-<SimpleData name="GEOID">2301360</SimpleData>
-<SimpleData name="NAME">Anson</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">3354525</SimpleData>
-<SimpleData name="AWATER">164243</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -164,50 +86,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Ashland&lt;closeparen&gt;</name>
+<name>Ashland</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>01675</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02583553</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2301675</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2301675</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Ashland</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>11548609</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>60412</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">01675</SimpleData>
-<SimpleData name="PLACENS">02583553</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2301675</SimpleData>
-<SimpleData name="GEOID">2301675</SimpleData>
-<SimpleData name="NAME">Ashland</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">11548609</SimpleData>
-<SimpleData name="AWATER">60412</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -220,50 +103,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Auburn&lt;closeparen&gt;</name>
+<name>Auburn</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>02060</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>00582333</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2302060</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2302060</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Auburn</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>25</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>153688559</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>16576856</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">02060</SimpleData>
-<SimpleData name="PLACENS">00582333</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2302060</SimpleData>
-<SimpleData name="GEOID">2302060</SimpleData>
-<SimpleData name="NAME">Auburn</SimpleData>
-<SimpleData name="LSAD">25</SimpleData>
-<SimpleData name="ALAND">153688559</SimpleData>
-<SimpleData name="AWATER">16576856</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -276,50 +120,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Augusta&lt;closeparen&gt;</name>
+<name>Augusta</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>02100</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>00582334</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2302100</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2302100</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Augusta</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>25</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>142796178</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>7516734</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">02100</SimpleData>
-<SimpleData name="PLACENS">00582334</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2302100</SimpleData>
-<SimpleData name="GEOID">2302100</SimpleData>
-<SimpleData name="NAME">Augusta</SimpleData>
-<SimpleData name="LSAD">25</SimpleData>
-<SimpleData name="ALAND">142796178</SimpleData>
-<SimpleData name="AWATER">7516734</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -332,50 +137,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Bangor&lt;closeparen&gt;</name>
+<name>Bangor</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>02795</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>00582340</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2302795</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2302795</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Bangor</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>25</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>88731373</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>868257</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">02795</SimpleData>
-<SimpleData name="PLACENS">00582340</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2302795</SimpleData>
-<SimpleData name="GEOID">2302795</SimpleData>
-<SimpleData name="NAME">Bangor</SimpleData>
-<SimpleData name="LSAD">25</SimpleData>
-<SimpleData name="ALAND">88731373</SimpleData>
-<SimpleData name="AWATER">868257</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -388,50 +154,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Bar Harbor&lt;closeparen&gt;</name>
+<name>Bar Harbor</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>02830</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377888</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2302830</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2302830</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Bar Harbor</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>8223821</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>0</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">02830</SimpleData>
-<SimpleData name="PLACENS">02377888</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2302830</SimpleData>
-<SimpleData name="GEOID">2302830</SimpleData>
-<SimpleData name="NAME">Bar Harbor</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">8223821</SimpleData>
-<SimpleData name="AWATER">0</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -444,50 +171,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Bath&lt;closeparen&gt;</name>
+<name>Bath</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>03355</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>00582343</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2303355</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2303355</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Bath</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>25</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>23617628</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>10616429</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">03355</SimpleData>
-<SimpleData name="PLACENS">00582343</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2303355</SimpleData>
-<SimpleData name="GEOID">2303355</SimpleData>
-<SimpleData name="NAME">Bath</SimpleData>
-<SimpleData name="LSAD">25</SimpleData>
-<SimpleData name="ALAND">23617628</SimpleData>
-<SimpleData name="AWATER">10616429</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -500,50 +188,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Belfast&lt;closeparen&gt;</name>
+<name>Belfast</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>03950</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>00582347</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2303950</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2303950</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Belfast</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>25</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>88164079</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>11204243</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">03950</SimpleData>
-<SimpleData name="PLACENS">00582347</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2303950</SimpleData>
-<SimpleData name="GEOID">2303950</SimpleData>
-<SimpleData name="NAME">Belfast</SimpleData>
-<SimpleData name="LSAD">25</SimpleData>
-<SimpleData name="ALAND">88164079</SimpleData>
-<SimpleData name="AWATER">11204243</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -556,50 +205,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Berwick&lt;closeparen&gt;</name>
+<name>Berwick</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>04685</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377889</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2304685</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2304685</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Berwick</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>4073221</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>75564</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">04685</SimpleData>
-<SimpleData name="PLACENS">02377889</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2304685</SimpleData>
-<SimpleData name="GEOID">2304685</SimpleData>
-<SimpleData name="NAME">Berwick</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">4073221</SimpleData>
-<SimpleData name="AWATER">75564</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -612,50 +222,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Biddeford&lt;closeparen&gt;</name>
+<name>Biddeford</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>04860</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>00582353</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2304860</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2304860</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Biddeford</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>25</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>77918025</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>75101170</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">04860</SimpleData>
-<SimpleData name="PLACENS">00582353</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2304860</SimpleData>
-<SimpleData name="GEOID">2304860</SimpleData>
-<SimpleData name="NAME">Biddeford</SimpleData>
-<SimpleData name="LSAD">25</SimpleData>
-<SimpleData name="ALAND">77918025</SimpleData>
-<SimpleData name="AWATER">75101170</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -668,50 +239,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Bingham&lt;closeparen&gt;</name>
+<name>Bingham</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>04965</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377890</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2304965</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2304965</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Bingham</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>5885562</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>0</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">04965</SimpleData>
-<SimpleData name="PLACENS">02377890</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2304965</SimpleData>
-<SimpleData name="GEOID">2304965</SimpleData>
-<SimpleData name="NAME">Bingham</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">5885562</SimpleData>
-<SimpleData name="AWATER">0</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -724,50 +256,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Blaine&lt;closeparen&gt;</name>
+<name>Blaine</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>05350</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02652330</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2305350</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2305350</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Blaine</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>7070853</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>0</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">05350</SimpleData>
-<SimpleData name="PLACENS">02652330</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2305350</SimpleData>
-<SimpleData name="GEOID">2305350</SimpleData>
-<SimpleData name="NAME">Blaine</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">7070853</SimpleData>
-<SimpleData name="AWATER">0</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -780,50 +273,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Blue Hill&lt;closeparen&gt;</name>
+<name>Blue Hill</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>05665</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02630697</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2305665</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2305665</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Blue Hill</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>12142408</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>22609</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">05665</SimpleData>
-<SimpleData name="PLACENS">02630697</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2305665</SimpleData>
-<SimpleData name="GEOID">2305665</SimpleData>
-<SimpleData name="NAME">Blue Hill</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">12142408</SimpleData>
-<SimpleData name="AWATER">22609</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -836,50 +290,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Boothbay Harbor&lt;closeparen&gt;</name>
+<name>Boothbay Harbor</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>06085</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377891</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2306085</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2306085</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Boothbay Harbor</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>2194159</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>0</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">06085</SimpleData>
-<SimpleData name="PLACENS">02377891</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2306085</SimpleData>
-<SimpleData name="GEOID">2306085</SimpleData>
-<SimpleData name="NAME">Boothbay Harbor</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">2194159</SimpleData>
-<SimpleData name="AWATER">0</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -892,50 +307,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Bowdoinham&lt;closeparen&gt;</name>
+<name>Bowdoinham</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>06330</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02630698</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2306330</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2306330</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Bowdoinham</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>9209640</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>0</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">06330</SimpleData>
-<SimpleData name="PLACENS">02630698</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2306330</SimpleData>
-<SimpleData name="GEOID">2306330</SimpleData>
-<SimpleData name="NAME">Bowdoinham</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">9209640</SimpleData>
-<SimpleData name="AWATER">0</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -948,50 +324,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Brewer&lt;closeparen&gt;</name>
+<name>Brewer</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>06925</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>00582366</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2306925</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2306925</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Brewer</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>25</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>39455700</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>1168416</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">06925</SimpleData>
-<SimpleData name="PLACENS">00582366</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2306925</SimpleData>
-<SimpleData name="GEOID">2306925</SimpleData>
-<SimpleData name="NAME">Brewer</SimpleData>
-<SimpleData name="LSAD">25</SimpleData>
-<SimpleData name="ALAND">39455700</SimpleData>
-<SimpleData name="AWATER">1168416</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -1004,50 +341,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Bridgton&lt;closeparen&gt;</name>
+<name>Bridgton</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>07135</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377892</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2307135</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2307135</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Bridgton</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>19108012</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>5515462</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">07135</SimpleData>
-<SimpleData name="PLACENS">02377892</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2307135</SimpleData>
-<SimpleData name="GEOID">2307135</SimpleData>
-<SimpleData name="NAME">Bridgton</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">19108012</SimpleData>
-<SimpleData name="AWATER">5515462</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -1060,50 +358,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Brunswick&lt;closeparen&gt;</name>
+<name>Brunswick</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>08395</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377893</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2308395</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2308395</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Brunswick</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>37581040</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>4015327</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">08395</SimpleData>
-<SimpleData name="PLACENS">02377893</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2308395</SimpleData>
-<SimpleData name="GEOID">2308395</SimpleData>
-<SimpleData name="NAME">Brunswick</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">37581040</SimpleData>
-<SimpleData name="AWATER">4015327</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -1121,50 +380,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Brunswick Station&lt;closeparen&gt;</name>
+<name>Brunswick Station</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>08500</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377894</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2308500</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2308500</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Brunswick Station</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>12698435</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>140621</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">08500</SimpleData>
-<SimpleData name="PLACENS">02377894</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2308500</SimpleData>
-<SimpleData name="GEOID">2308500</SimpleData>
-<SimpleData name="NAME">Brunswick Station</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">12698435</SimpleData>
-<SimpleData name="AWATER">140621</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <MultiGeometry>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -1192,50 +412,11 @@
 </MultiGeometry>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Bucksport&lt;closeparen&gt;</name>
+<name>Bucksport</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>08780</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377895</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2308780</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2308780</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Bucksport</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>29554089</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>8115801</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">08780</SimpleData>
-<SimpleData name="PLACENS">02377895</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2308780</SimpleData>
-<SimpleData name="GEOID">2308780</SimpleData>
-<SimpleData name="NAME">Bucksport</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">29554089</SimpleData>
-<SimpleData name="AWATER">8115801</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -1248,50 +429,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Calais&lt;closeparen&gt;</name>
+<name>Calais</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>09585</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>00582382</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2309585</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2309585</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Calais</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>25</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>88895327</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>14981767</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">09585</SimpleData>
-<SimpleData name="PLACENS">00582382</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2309585</SimpleData>
-<SimpleData name="GEOID">2309585</SimpleData>
-<SimpleData name="NAME">Calais</SimpleData>
-<SimpleData name="LSAD">25</SimpleData>
-<SimpleData name="ALAND">88895327</SimpleData>
-<SimpleData name="AWATER">14981767</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -1304,50 +446,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Camden&lt;closeparen&gt;</name>
+<name>Camden</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>09690</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377896</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2309690</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2309690</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Camden</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>9750022</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>5628</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">09690</SimpleData>
-<SimpleData name="PLACENS">02377896</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2309690</SimpleData>
-<SimpleData name="GEOID">2309690</SimpleData>
-<SimpleData name="NAME">Camden</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">9750022</SimpleData>
-<SimpleData name="AWATER">5628</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -1360,50 +463,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Cape Neddick&lt;closeparen&gt;</name>
+<name>Cape Neddick</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>10320</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377897</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2310320</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2310320</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Cape Neddick</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>9648573</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>620692</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">10320</SimpleData>
-<SimpleData name="PLACENS">02377897</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2310320</SimpleData>
-<SimpleData name="GEOID">2310320</SimpleData>
-<SimpleData name="NAME">Cape Neddick</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">9648573</SimpleData>
-<SimpleData name="AWATER">620692</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -1416,50 +480,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Caribou&lt;closeparen&gt;</name>
+<name>Caribou</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>10565</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>00582389</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2310565</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2310565</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Caribou</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>25</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>205279024</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>2166240</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">10565</SimpleData>
-<SimpleData name="PLACENS">00582389</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2310565</SimpleData>
-<SimpleData name="GEOID">2310565</SimpleData>
-<SimpleData name="NAME">Caribou</SimpleData>
-<SimpleData name="LSAD">25</SimpleData>
-<SimpleData name="ALAND">205279024</SimpleData>
-<SimpleData name="AWATER">2166240</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -1472,50 +497,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Casco&lt;closeparen&gt;</name>
+<name>Casco</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>11090</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02583554</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2311090</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2311090</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Casco</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>8502445</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>667575</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">11090</SimpleData>
-<SimpleData name="PLACENS">02583554</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2311090</SimpleData>
-<SimpleData name="GEOID">2311090</SimpleData>
-<SimpleData name="NAME">Casco</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">8502445</SimpleData>
-<SimpleData name="AWATER">667575</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -1528,50 +514,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Castine&lt;closeparen&gt;</name>
+<name>Castine</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>11230</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02630699</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2311230</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2311230</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Castine</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>3993192</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>16201</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">11230</SimpleData>
-<SimpleData name="PLACENS">02630699</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2311230</SimpleData>
-<SimpleData name="GEOID">2311230</SimpleData>
-<SimpleData name="NAME">Castine</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">3993192</SimpleData>
-<SimpleData name="AWATER">16201</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -1584,50 +531,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Chisholm&lt;closeparen&gt;</name>
+<name>Chisholm</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>12770</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377898</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2312770</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2312770</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Chisholm</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>5662099</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>508</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">12770</SimpleData>
-<SimpleData name="PLACENS">02377898</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2312770</SimpleData>
-<SimpleData name="GEOID">2312770</SimpleData>
-<SimpleData name="NAME">Chisholm</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">5662099</SimpleData>
-<SimpleData name="AWATER">508</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -1640,50 +548,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Clinton&lt;closeparen&gt;</name>
+<name>Clinton</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>13435</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377899</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2313435</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2313435</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Clinton</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>22940558</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>804190</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">13435</SimpleData>
-<SimpleData name="PLACENS">02377899</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2313435</SimpleData>
-<SimpleData name="GEOID">2313435</SimpleData>
-<SimpleData name="NAME">Clinton</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">22940558</SimpleData>
-<SimpleData name="AWATER">804190</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -1696,50 +565,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Cousins Island&lt;closeparen&gt;</name>
+<name>Cousins Island</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>14800</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02583555</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2314800</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2314800</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Cousins Island</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>2747038</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>2388884</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">14800</SimpleData>
-<SimpleData name="PLACENS">02583555</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2314800</SimpleData>
-<SimpleData name="GEOID">2314800</SimpleData>
-<SimpleData name="NAME">Cousins Island</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">2747038</SimpleData>
-<SimpleData name="AWATER">2388884</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -1752,50 +582,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Cumberland Center&lt;closeparen&gt;</name>
+<name>Cumberland Center</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>15500</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377900</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2315500</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2315500</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Cumberland Center</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>10955447</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>7409</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">15500</SimpleData>
-<SimpleData name="PLACENS">02377900</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2315500</SimpleData>
-<SimpleData name="GEOID">2315500</SimpleData>
-<SimpleData name="NAME">Cumberland Center</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">10955447</SimpleData>
-<SimpleData name="AWATER">7409</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -1808,50 +599,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Damariscotta&lt;closeparen&gt;</name>
+<name>Damariscotta</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>16200</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02652331</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2316200</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2316200</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Damariscotta</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>8952140</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>1750657</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">16200</SimpleData>
-<SimpleData name="PLACENS">02652331</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2316200</SimpleData>
-<SimpleData name="GEOID">2316200</SimpleData>
-<SimpleData name="NAME">Damariscotta</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">8952140</SimpleData>
-<SimpleData name="AWATER">1750657</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -1864,50 +616,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Dexter&lt;closeparen&gt;</name>
+<name>Dexter</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>17495</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377902</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2317495</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2317495</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Dexter</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>12230386</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>1517251</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">17495</SimpleData>
-<SimpleData name="PLACENS">02377902</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2317495</SimpleData>
-<SimpleData name="GEOID">2317495</SimpleData>
-<SimpleData name="NAME">Dexter</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">12230386</SimpleData>
-<SimpleData name="AWATER">1517251</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -1920,50 +633,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Dixfield&lt;closeparen&gt;</name>
+<name>Dixfield</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>17705</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377903</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2317705</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2317705</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Dixfield</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>2222836</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>0</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">17705</SimpleData>
-<SimpleData name="PLACENS">02377903</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2317705</SimpleData>
-<SimpleData name="GEOID">2317705</SimpleData>
-<SimpleData name="NAME">Dixfield</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">2222836</SimpleData>
-<SimpleData name="AWATER">0</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -1976,50 +650,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Dover-Foxcroft&lt;closeparen&gt;</name>
+<name>Dover-Foxcroft</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>18230</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377904</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2318230</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2318230</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Dover-Foxcroft</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>21706061</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>592635</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">18230</SimpleData>
-<SimpleData name="PLACENS">02377904</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2318230</SimpleData>
-<SimpleData name="GEOID">2318230</SimpleData>
-<SimpleData name="NAME">Dover-Foxcroft</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">21706061</SimpleData>
-<SimpleData name="AWATER">592635</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -2032,50 +667,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Eagle Lake&lt;closeparen&gt;</name>
+<name>Eagle Lake</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>19385</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02583556</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2319385</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2319385</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Eagle Lake</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>10243099</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>795039</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">19385</SimpleData>
-<SimpleData name="PLACENS">02583556</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2319385</SimpleData>
-<SimpleData name="GEOID">2319385</SimpleData>
-<SimpleData name="NAME">Eagle Lake</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">10243099</SimpleData>
-<SimpleData name="AWATER">795039</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -2088,50 +684,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;East Millinocket&lt;closeparen&gt;</name>
+<name>East Millinocket</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>21065</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377905</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2321065</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2321065</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>East Millinocket</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>2476883</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>0</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">21065</SimpleData>
-<SimpleData name="PLACENS">02377905</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2321065</SimpleData>
-<SimpleData name="GEOID">2321065</SimpleData>
-<SimpleData name="NAME">East Millinocket</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">2476883</SimpleData>
-<SimpleData name="AWATER">0</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -2144,50 +701,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Eastport&lt;closeparen&gt;</name>
+<name>Eastport</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>21730</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>00582460</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2321730</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2321730</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Eastport</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>25</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>9414045</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>22534323</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">21730</SimpleData>
-<SimpleData name="PLACENS">00582460</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2321730</SimpleData>
-<SimpleData name="GEOID">2321730</SimpleData>
-<SimpleData name="NAME">Eastport</SimpleData>
-<SimpleData name="LSAD">25</SimpleData>
-<SimpleData name="ALAND">9414045</SimpleData>
-<SimpleData name="AWATER">22534323</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -2200,50 +718,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Ellsworth&lt;closeparen&gt;</name>
+<name>Ellsworth</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>23200</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>00582465</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2323200</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2323200</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Ellsworth</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>25</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>205323410</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>37927947</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">23200</SimpleData>
-<SimpleData name="PLACENS">00582465</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2323200</SimpleData>
-<SimpleData name="GEOID">2323200</SimpleData>
-<SimpleData name="NAME">Ellsworth</SimpleData>
-<SimpleData name="LSAD">25</SimpleData>
-<SimpleData name="ALAND">205323410</SimpleData>
-<SimpleData name="AWATER">37927947</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -2256,50 +735,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Fairfield&lt;closeparen&gt;</name>
+<name>Fairfield</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>24285</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377906</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2324285</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2324285</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Fairfield</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>4740192</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>0</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">24285</SimpleData>
-<SimpleData name="PLACENS">02377906</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2324285</SimpleData>
-<SimpleData name="GEOID">2324285</SimpleData>
-<SimpleData name="NAME">Fairfield</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">4740192</SimpleData>
-<SimpleData name="AWATER">0</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -2312,50 +752,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Falmouth&lt;closeparen&gt;</name>
+<name>Falmouth</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>24480</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02583557</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2324480</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2324480</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Falmouth</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>6344895</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>2116721</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">24480</SimpleData>
-<SimpleData name="PLACENS">02583557</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2324480</SimpleData>
-<SimpleData name="GEOID">2324480</SimpleData>
-<SimpleData name="NAME">Falmouth</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">6344895</SimpleData>
-<SimpleData name="AWATER">2116721</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -2368,50 +769,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Falmouth Foreside&lt;closeparen&gt;</name>
+<name>Falmouth Foreside</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>24530</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377907</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2324530</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2324530</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Falmouth Foreside</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>3935233</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>374301</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">24530</SimpleData>
-<SimpleData name="PLACENS">02377907</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2324530</SimpleData>
-<SimpleData name="GEOID">2324530</SimpleData>
-<SimpleData name="NAME">Falmouth Foreside</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">3935233</SimpleData>
-<SimpleData name="AWATER">374301</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -2424,50 +786,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Farmingdale&lt;closeparen&gt;</name>
+<name>Farmingdale</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>24635</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377908</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2324635</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2324635</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Farmingdale</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>6176577</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>531708</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">24635</SimpleData>
-<SimpleData name="PLACENS">02377908</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2324635</SimpleData>
-<SimpleData name="GEOID">2324635</SimpleData>
-<SimpleData name="NAME">Farmingdale</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">6176577</SimpleData>
-<SimpleData name="AWATER">531708</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -2480,50 +803,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Farmington&lt;closeparen&gt;</name>
+<name>Farmington</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>24740</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377909</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2324740</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2324740</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Farmington</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>10451941</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>25106</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">24740</SimpleData>
-<SimpleData name="PLACENS">02377909</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2324740</SimpleData>
-<SimpleData name="GEOID">2324740</SimpleData>
-<SimpleData name="NAME">Farmington</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">10451941</SimpleData>
-<SimpleData name="AWATER">25106</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -2536,50 +820,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Fort Fairfield&lt;closeparen&gt;</name>
+<name>Fort Fairfield</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>25580</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377910</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2325580</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2325580</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Fort Fairfield</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>7584919</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>301143</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">25580</SimpleData>
-<SimpleData name="PLACENS">02377910</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2325580</SimpleData>
-<SimpleData name="GEOID">2325580</SimpleData>
-<SimpleData name="NAME">Fort Fairfield</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">7584919</SimpleData>
-<SimpleData name="AWATER">301143</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -2592,50 +837,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Fort Kent&lt;closeparen&gt;</name>
+<name>Fort Kent</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>25720</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377911</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2325720</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2325720</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Fort Kent</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>13927665</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>582319</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">25720</SimpleData>
-<SimpleData name="PLACENS">02377911</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2325720</SimpleData>
-<SimpleData name="GEOID">2325720</SimpleData>
-<SimpleData name="NAME">Fort Kent</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">13927665</SimpleData>
-<SimpleData name="AWATER">582319</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -2648,50 +854,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Freeport&lt;closeparen&gt;</name>
+<name>Freeport</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>26490</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377912</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2326490</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2326490</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Freeport</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>4443770</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>0</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">26490</SimpleData>
-<SimpleData name="PLACENS">02377912</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2326490</SimpleData>
-<SimpleData name="GEOID">2326490</SimpleData>
-<SimpleData name="NAME">Freeport</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">4443770</SimpleData>
-<SimpleData name="AWATER">0</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -2704,50 +871,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Fryeburg&lt;closeparen&gt;</name>
+<name>Fryeburg</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>26875</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377913</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2326875</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2326875</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Fryeburg</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>7715251</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>56480</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">26875</SimpleData>
-<SimpleData name="PLACENS">02377913</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2326875</SimpleData>
-<SimpleData name="GEOID">2326875</SimpleData>
-<SimpleData name="NAME">Fryeburg</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">7715251</SimpleData>
-<SimpleData name="AWATER">56480</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -2760,50 +888,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Gardiner&lt;closeparen&gt;</name>
+<name>Gardiner</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>27085</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>00582486</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2327085</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2327085</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Gardiner</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>25</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>40598472</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>2314103</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">27085</SimpleData>
-<SimpleData name="PLACENS">00582486</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2327085</SimpleData>
-<SimpleData name="GEOID">2327085</SimpleData>
-<SimpleData name="NAME">Gardiner</SimpleData>
-<SimpleData name="LSAD">25</SimpleData>
-<SimpleData name="ALAND">40598472</SimpleData>
-<SimpleData name="AWATER">2314103</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -2816,50 +905,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Gorham&lt;closeparen&gt;</name>
+<name>Gorham</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>28205</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02378356</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2328205</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2328205</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Gorham</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>19831169</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>51691</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">28205</SimpleData>
-<SimpleData name="PLACENS">02378356</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2328205</SimpleData>
-<SimpleData name="GEOID">2328205</SimpleData>
-<SimpleData name="NAME">Gorham</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">19831169</SimpleData>
-<SimpleData name="AWATER">51691</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -2872,50 +922,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Gray&lt;closeparen&gt;</name>
+<name>Gray</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>28835</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02583558</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2328835</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2328835</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Gray</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>7601769</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>0</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">28835</SimpleData>
-<SimpleData name="PLACENS">02583558</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2328835</SimpleData>
-<SimpleData name="GEOID">2328835</SimpleData>
-<SimpleData name="NAME">Gray</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">7601769</SimpleData>
-<SimpleData name="AWATER">0</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -2928,50 +939,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Greenville&lt;closeparen&gt;</name>
+<name>Greenville</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>29500</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377914</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2329500</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2329500</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Greenville</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>10657369</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>1730663</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">29500</SimpleData>
-<SimpleData name="PLACENS">02377914</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2329500</SimpleData>
-<SimpleData name="GEOID">2329500</SimpleData>
-<SimpleData name="NAME">Greenville</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">10657369</SimpleData>
-<SimpleData name="AWATER">1730663</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -2984,50 +956,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Guilford&lt;closeparen&gt;</name>
+<name>Guilford</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>30060</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377915</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2330060</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2330060</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Guilford</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>4967018</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>136953</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">30060</SimpleData>
-<SimpleData name="PLACENS">02377915</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2330060</SimpleData>
-<SimpleData name="GEOID">2330060</SimpleData>
-<SimpleData name="NAME">Guilford</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">4967018</SimpleData>
-<SimpleData name="AWATER">136953</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -3040,50 +973,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Hallowell&lt;closeparen&gt;</name>
+<name>Hallowell</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>30550</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>00582505</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2330550</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2330550</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Hallowell</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>25</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>15222109</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>554970</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">30550</SimpleData>
-<SimpleData name="PLACENS">00582505</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2330550</SimpleData>
-<SimpleData name="GEOID">2330550</SimpleData>
-<SimpleData name="NAME">Hallowell</SimpleData>
-<SimpleData name="LSAD">25</SimpleData>
-<SimpleData name="ALAND">15222109</SimpleData>
-<SimpleData name="AWATER">554970</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -3096,50 +990,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Hampden&lt;closeparen&gt;</name>
+<name>Hampden</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>30760</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377916</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2330760</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2330760</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Hampden</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>28391784</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>1731858</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">30760</SimpleData>
-<SimpleData name="PLACENS">02377916</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2330760</SimpleData>
-<SimpleData name="GEOID">2330760</SimpleData>
-<SimpleData name="NAME">Hampden</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">28391784</SimpleData>
-<SimpleData name="AWATER">1731858</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -3152,50 +1007,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Hartland&lt;closeparen&gt;</name>
+<name>Hartland</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>31705</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377917</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2331705</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2331705</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Hartland</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>5761361</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>125616</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">31705</SimpleData>
-<SimpleData name="PLACENS">02377917</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2331705</SimpleData>
-<SimpleData name="GEOID">2331705</SimpleData>
-<SimpleData name="NAME">Hartland</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">5761361</SimpleData>
-<SimpleData name="AWATER">125616</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -3208,50 +1024,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Houlton&lt;closeparen&gt;</name>
+<name>Houlton</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>33945</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377918</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2333945</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2333945</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Houlton</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>13609941</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>0</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">33945</SimpleData>
-<SimpleData name="PLACENS">02377918</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2333945</SimpleData>
-<SimpleData name="GEOID">2333945</SimpleData>
-<SimpleData name="NAME">Houlton</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">13609941</SimpleData>
-<SimpleData name="AWATER">0</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -3264,50 +1041,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Howland&lt;closeparen&gt;</name>
+<name>Howland</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>34225</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377919</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2334225</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2334225</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Howland</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>19263002</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>730673</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">34225</SimpleData>
-<SimpleData name="PLACENS">02377919</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2334225</SimpleData>
-<SimpleData name="GEOID">2334225</SimpleData>
-<SimpleData name="NAME">Howland</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">19263002</SimpleData>
-<SimpleData name="AWATER">730673</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -3320,50 +1058,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Kennebunk&lt;closeparen&gt;</name>
+<name>Kennebunk</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>36500</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377920</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2336500</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2336500</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Kennebunk</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>17477292</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>0</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">36500</SimpleData>
-<SimpleData name="PLACENS">02377920</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2336500</SimpleData>
-<SimpleData name="GEOID">2336500</SimpleData>
-<SimpleData name="NAME">Kennebunk</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">17477292</SimpleData>
-<SimpleData name="AWATER">0</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -3376,50 +1075,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Kennebunkport&lt;closeparen&gt;</name>
+<name>Kennebunkport</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>36710</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377921</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2336710</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2336710</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Kennebunkport</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>7650205</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>382180</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">36710</SimpleData>
-<SimpleData name="PLACENS">02377921</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2336710</SimpleData>
-<SimpleData name="GEOID">2336710</SimpleData>
-<SimpleData name="NAME">Kennebunkport</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">7650205</SimpleData>
-<SimpleData name="AWATER">382180</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -3432,50 +1092,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Kittery&lt;closeparen&gt;</name>
+<name>Kittery</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>37235</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377922</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2337235</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2337235</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Kittery</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>7227438</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>1900476</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">37235</SimpleData>
-<SimpleData name="PLACENS">02377922</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2337235</SimpleData>
-<SimpleData name="GEOID">2337235</SimpleData>
-<SimpleData name="NAME">Kittery</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">7227438</SimpleData>
-<SimpleData name="AWATER">1900476</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -3488,50 +1109,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Kittery Point&lt;closeparen&gt;</name>
+<name>Kittery Point</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>37375</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377923</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2337375</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2337375</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Kittery Point</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>4938282</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>1720024</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">37375</SimpleData>
-<SimpleData name="PLACENS">02377923</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2337375</SimpleData>
-<SimpleData name="GEOID">2337375</SimpleData>
-<SimpleData name="NAME">Kittery Point</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">4938282</SimpleData>
-<SimpleData name="AWATER">1720024</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -3544,50 +1126,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Lake Arrowhead&lt;closeparen&gt;</name>
+<name>Lake Arrowhead</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>37795</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377924</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2337795</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2337795</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Lake Arrowhead</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>13496985</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>3034863</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">37795</SimpleData>
-<SimpleData name="PLACENS">02377924</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2337795</SimpleData>
-<SimpleData name="GEOID">2337795</SimpleData>
-<SimpleData name="NAME">Lake Arrowhead</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">13496985</SimpleData>
-<SimpleData name="AWATER">3034863</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -3600,50 +1143,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Lewiston&lt;closeparen&gt;</name>
+<name>Lewiston</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>38740</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>00582554</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2338740</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2338740</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Lewiston</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>25</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>88439118</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>3595481</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">38740</SimpleData>
-<SimpleData name="PLACENS">00582554</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2338740</SimpleData>
-<SimpleData name="GEOID">2338740</SimpleData>
-<SimpleData name="NAME">Lewiston</SimpleData>
-<SimpleData name="LSAD">25</SimpleData>
-<SimpleData name="ALAND">88439118</SimpleData>
-<SimpleData name="AWATER">3595481</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -3656,50 +1160,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Limestone&lt;closeparen&gt;</name>
+<name>Limestone</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>39265</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377925</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2339265</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2339265</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Limestone</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>6859838</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>0</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">39265</SimpleData>
-<SimpleData name="PLACENS">02377925</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2339265</SimpleData>
-<SimpleData name="GEOID">2339265</SimpleData>
-<SimpleData name="NAME">Limestone</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">6859838</SimpleData>
-<SimpleData name="AWATER">0</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -3712,50 +1177,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Lincoln&lt;closeparen&gt;</name>
+<name>Lincoln</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>39440</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377926</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2339440</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2339440</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Lincoln</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>19233005</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>2008000</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">39440</SimpleData>
-<SimpleData name="PLACENS">02377926</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2339440</SimpleData>
-<SimpleData name="GEOID">2339440</SimpleData>
-<SimpleData name="NAME">Lincoln</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">19233005</SimpleData>
-<SimpleData name="AWATER">2008000</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -3768,50 +1194,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Lisbon Falls&lt;closeparen&gt;</name>
+<name>Lisbon Falls</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>40105</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377927</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2340105</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2340105</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Lisbon Falls</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>9505575</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>487102</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">40105</SimpleData>
-<SimpleData name="PLACENS">02377927</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2340105</SimpleData>
-<SimpleData name="GEOID">2340105</SimpleData>
-<SimpleData name="NAME">Lisbon Falls</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">9505575</SimpleData>
-<SimpleData name="AWATER">487102</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -3824,50 +1211,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Little Falls&lt;closeparen&gt;</name>
+<name>Little Falls</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>40350</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02583559</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2340350</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2340350</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Little Falls</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>2979687</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>254659</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">40350</SimpleData>
-<SimpleData name="PLACENS">02583559</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2340350</SimpleData>
-<SimpleData name="GEOID">2340350</SimpleData>
-<SimpleData name="NAME">Little Falls</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">2979687</SimpleData>
-<SimpleData name="AWATER">254659</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -3880,50 +1228,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Littlejohn Island&lt;closeparen&gt;</name>
+<name>Littlejohn Island</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>40470</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02583560</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2340470</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2340470</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Littlejohn Island</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>884606</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>1007425</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">40470</SimpleData>
-<SimpleData name="PLACENS">02583560</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2340470</SimpleData>
-<SimpleData name="GEOID">2340470</SimpleData>
-<SimpleData name="NAME">Littlejohn Island</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">884606</SimpleData>
-<SimpleData name="AWATER">1007425</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -3936,50 +1245,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Livermore Falls&lt;closeparen&gt;</name>
+<name>Livermore Falls</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>40735</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377929</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2340735</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2340735</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Livermore Falls</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>3122196</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>268034</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">40735</SimpleData>
-<SimpleData name="PLACENS">02377929</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2340735</SimpleData>
-<SimpleData name="GEOID">2340735</SimpleData>
-<SimpleData name="NAME">Livermore Falls</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">3122196</SimpleData>
-<SimpleData name="AWATER">268034</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -3992,50 +1262,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Lubec&lt;closeparen&gt;</name>
+<name>Lubec</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>41575</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02630700</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2341575</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2341575</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Lubec</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>1351536</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>220</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">41575</SimpleData>
-<SimpleData name="PLACENS">02630700</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2341575</SimpleData>
-<SimpleData name="GEOID">2341575</SimpleData>
-<SimpleData name="NAME">Lubec</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">1351536</SimpleData>
-<SimpleData name="AWATER">220</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -4048,50 +1279,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Machias&lt;closeparen&gt;</name>
+<name>Machias</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>41925</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377931</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2341925</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2341925</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Machias</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>6434410</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>237451</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">41925</SimpleData>
-<SimpleData name="PLACENS">02377931</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2341925</SimpleData>
-<SimpleData name="GEOID">2341925</SimpleData>
-<SimpleData name="NAME">Machias</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">6434410</SimpleData>
-<SimpleData name="AWATER">237451</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -4104,50 +1296,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Madawaska&lt;closeparen&gt;</name>
+<name>Madawaska</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>42485</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377932</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2342485</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2342485</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Madawaska</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>13704558</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>264474</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">42485</SimpleData>
-<SimpleData name="PLACENS">02377932</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2342485</SimpleData>
-<SimpleData name="GEOID">2342485</SimpleData>
-<SimpleData name="NAME">Madawaska</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">13704558</SimpleData>
-<SimpleData name="AWATER">264474</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -4160,50 +1313,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Madison&lt;closeparen&gt;</name>
+<name>Madison</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>42625</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377933</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2342625</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2342625</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Madison</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>16645612</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>735602</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">42625</SimpleData>
-<SimpleData name="PLACENS">02377933</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2342625</SimpleData>
-<SimpleData name="GEOID">2342625</SimpleData>
-<SimpleData name="NAME">Madison</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">16645612</SimpleData>
-<SimpleData name="AWATER">735602</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -4216,50 +1330,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Mapleton&lt;closeparen&gt;</name>
+<name>Mapleton</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>43220</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02583561</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2343220</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2343220</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Mapleton</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>7800555</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>0</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">43220</SimpleData>
-<SimpleData name="PLACENS">02583561</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2343220</SimpleData>
-<SimpleData name="GEOID">2343220</SimpleData>
-<SimpleData name="NAME">Mapleton</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">7800555</SimpleData>
-<SimpleData name="AWATER">0</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -4272,50 +1347,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Mars Hill&lt;closeparen&gt;</name>
+<name>Mars Hill</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>43675</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02583562</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2343675</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2343675</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Mars Hill</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>5489142</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>82692</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">43675</SimpleData>
-<SimpleData name="PLACENS">02583562</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2343675</SimpleData>
-<SimpleData name="GEOID">2343675</SimpleData>
-<SimpleData name="NAME">Mars Hill</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">5489142</SimpleData>
-<SimpleData name="AWATER">82692</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -4328,50 +1364,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Mechanic Falls&lt;closeparen&gt;</name>
+<name>Mechanic Falls</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>44620</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377935</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2344620</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2344620</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Mechanic Falls</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>13838991</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>336132</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">44620</SimpleData>
-<SimpleData name="PLACENS">02377935</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2344620</SimpleData>
-<SimpleData name="GEOID">2344620</SimpleData>
-<SimpleData name="NAME">Mechanic Falls</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">13838991</SimpleData>
-<SimpleData name="AWATER">336132</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -4384,50 +1381,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Mexico&lt;closeparen&gt;</name>
+<name>Mexico</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>45250</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377936</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2345250</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2345250</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Mexico</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>2767896</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>0</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">45250</SimpleData>
-<SimpleData name="PLACENS">02377936</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2345250</SimpleData>
-<SimpleData name="GEOID">2345250</SimpleData>
-<SimpleData name="NAME">Mexico</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">2767896</SimpleData>
-<SimpleData name="AWATER">0</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -4440,50 +1398,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Milford&lt;closeparen&gt;</name>
+<name>Milford</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>45635</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377937</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2345635</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2345635</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Milford</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>8657276</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>105169</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">45635</SimpleData>
-<SimpleData name="PLACENS">02377937</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2345635</SimpleData>
-<SimpleData name="GEOID">2345635</SimpleData>
-<SimpleData name="NAME">Milford</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">8657276</SimpleData>
-<SimpleData name="AWATER">105169</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -4496,50 +1415,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Millinocket&lt;closeparen&gt;</name>
+<name>Millinocket</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>45845</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377938</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2345845</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2345845</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Millinocket</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>14263948</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>340011</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">45845</SimpleData>
-<SimpleData name="PLACENS">02377938</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2345845</SimpleData>
-<SimpleData name="GEOID">2345845</SimpleData>
-<SimpleData name="NAME">Millinocket</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">14263948</SimpleData>
-<SimpleData name="AWATER">340011</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -4552,50 +1432,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Milo&lt;closeparen&gt;</name>
+<name>Milo</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>45985</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377939</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2345985</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2345985</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Milo</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>20066082</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>843185</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">45985</SimpleData>
-<SimpleData name="PLACENS">02377939</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2345985</SimpleData>
-<SimpleData name="GEOID">2345985</SimpleData>
-<SimpleData name="NAME">Milo</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">20066082</SimpleData>
-<SimpleData name="AWATER">843185</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -4608,50 +1449,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Naples&lt;closeparen&gt;</name>
+<name>Naples</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>48050</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02583563</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2348050</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2348050</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Naples</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>6706674</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>1960453</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">48050</SimpleData>
-<SimpleData name="PLACENS">02583563</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2348050</SimpleData>
-<SimpleData name="GEOID">2348050</SimpleData>
-<SimpleData name="NAME">Naples</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">6706674</SimpleData>
-<SimpleData name="AWATER">1960453</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -4664,50 +1466,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Newcastle&lt;closeparen&gt;</name>
+<name>Newcastle</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>48610</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02583564</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2348610</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2348610</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Newcastle</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>5613562</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>1620886</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">48610</SimpleData>
-<SimpleData name="PLACENS">02583564</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2348610</SimpleData>
-<SimpleData name="GEOID">2348610</SimpleData>
-<SimpleData name="NAME">Newcastle</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">5613562</SimpleData>
-<SimpleData name="AWATER">1620886</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -4720,50 +1483,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Newport&lt;closeparen&gt;</name>
+<name>Newport</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>49100</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377940</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2349100</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2349100</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Newport</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>9083486</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>3526206</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">49100</SimpleData>
-<SimpleData name="PLACENS">02377940</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2349100</SimpleData>
-<SimpleData name="GEOID">2349100</SimpleData>
-<SimpleData name="NAME">Newport</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">9083486</SimpleData>
-<SimpleData name="AWATER">3526206</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -4776,50 +1500,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Norridgewock&lt;closeparen&gt;</name>
+<name>Norridgewock</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>49800</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377941</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2349800</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2349800</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Norridgewock</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>27468369</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>1192337</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">49800</SimpleData>
-<SimpleData name="PLACENS">02377941</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2349800</SimpleData>
-<SimpleData name="GEOID">2349800</SimpleData>
-<SimpleData name="NAME">Norridgewock</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">27468369</SimpleData>
-<SimpleData name="AWATER">1192337</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -4832,50 +1517,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;North Berwick&lt;closeparen&gt;</name>
+<name>North Berwick</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>50290</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377942</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2350290</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2350290</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>North Berwick</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>8273542</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>3160</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">50290</SimpleData>
-<SimpleData name="PLACENS">02377942</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2350290</SimpleData>
-<SimpleData name="GEOID">2350290</SimpleData>
-<SimpleData name="NAME">North Berwick</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">8273542</SimpleData>
-<SimpleData name="AWATER">3160</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -4888,50 +1534,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;North Windham&lt;closeparen&gt;</name>
+<name>North Windham</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>53685</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377943</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2353685</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2353685</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>North Windham</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>16922835</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>557055</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">53685</SimpleData>
-<SimpleData name="PLACENS">02377943</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2353685</SimpleData>
-<SimpleData name="GEOID">2353685</SimpleData>
-<SimpleData name="NAME">North Windham</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">16922835</SimpleData>
-<SimpleData name="AWATER">557055</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -4944,50 +1551,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Norway&lt;closeparen&gt;</name>
+<name>Norway</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>53965</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377944</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2353965</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2353965</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Norway</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>13068519</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>473684</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">53965</SimpleData>
-<SimpleData name="PLACENS">02377944</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2353965</SimpleData>
-<SimpleData name="GEOID">2353965</SimpleData>
-<SimpleData name="NAME">Norway</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">13068519</SimpleData>
-<SimpleData name="AWATER">473684</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -5000,50 +1568,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Oakland&lt;closeparen&gt;</name>
+<name>Oakland</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>54525</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377945</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2354525</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2354525</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Oakland</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>13999874</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>777994</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">54525</SimpleData>
-<SimpleData name="PLACENS">02377945</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2354525</SimpleData>
-<SimpleData name="GEOID">2354525</SimpleData>
-<SimpleData name="NAME">Oakland</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">13999874</SimpleData>
-<SimpleData name="AWATER">777994</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -5056,50 +1585,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Old Orchard Beach&lt;closeparen&gt;</name>
+<name>Old Orchard Beach</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>55120</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377946</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2355120</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2355120</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Old Orchard Beach</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>19255114</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>39112042</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">55120</SimpleData>
-<SimpleData name="PLACENS">02377946</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2355120</SimpleData>
-<SimpleData name="GEOID">2355120</SimpleData>
-<SimpleData name="NAME">Old Orchard Beach</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">19255114</SimpleData>
-<SimpleData name="AWATER">39112042</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -5112,50 +1602,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Old Town&lt;closeparen&gt;</name>
+<name>Old Town</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>55225</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>00582648</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2355225</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2355225</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Old Town</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>25</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>100552749</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>11462028</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">55225</SimpleData>
-<SimpleData name="PLACENS">00582648</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2355225</SimpleData>
-<SimpleData name="GEOID">2355225</SimpleData>
-<SimpleData name="NAME">Old Town</SimpleData>
-<SimpleData name="LSAD">25</SimpleData>
-<SimpleData name="ALAND">100552749</SimpleData>
-<SimpleData name="AWATER">11462028</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -5168,50 +1619,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Orono&lt;closeparen&gt;</name>
+<name>Orono</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>55575</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377947</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2355575</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2355575</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Orono</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>18235754</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>1708802</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">55575</SimpleData>
-<SimpleData name="PLACENS">02377947</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2355575</SimpleData>
-<SimpleData name="GEOID">2355575</SimpleData>
-<SimpleData name="NAME">Orono</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">18235754</SimpleData>
-<SimpleData name="AWATER">1708802</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -5224,50 +1636,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Oxford&lt;closeparen&gt;</name>
+<name>Oxford</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>56240</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377948</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2356240</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2356240</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Oxford</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>21466852</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>1702160</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">56240</SimpleData>
-<SimpleData name="PLACENS">02377948</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2356240</SimpleData>
-<SimpleData name="GEOID">2356240</SimpleData>
-<SimpleData name="NAME">Oxford</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">21466852</SimpleData>
-<SimpleData name="AWATER">1702160</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -5280,50 +1653,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Pittsfield&lt;closeparen&gt;</name>
+<name>Pittsfield</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>58970</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377949</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2358970</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2358970</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Pittsfield</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>24336264</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>539683</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">58970</SimpleData>
-<SimpleData name="PLACENS">02377949</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2358970</SimpleData>
-<SimpleData name="GEOID">2358970</SimpleData>
-<SimpleData name="NAME">Pittsfield</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">24336264</SimpleData>
-<SimpleData name="AWATER">539683</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -5336,50 +1670,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Portland&lt;closeparen&gt;</name>
+<name>Portland</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>60545</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>00582683</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2360545</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2360545</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Portland</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>25</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>55801118</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>124050542</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">60545</SimpleData>
-<SimpleData name="PLACENS">00582683</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2360545</SimpleData>
-<SimpleData name="GEOID">2360545</SimpleData>
-<SimpleData name="NAME">Portland</SimpleData>
-<SimpleData name="LSAD">25</SimpleData>
-<SimpleData name="ALAND">55801118</SimpleData>
-<SimpleData name="AWATER">124050542</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <MultiGeometry>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -5447,50 +1742,11 @@
 </MultiGeometry>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Presque Isle&lt;closeparen&gt;</name>
+<name>Presque Isle</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>60825</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>00582686</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2360825</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2360825</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Presque Isle</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>25</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>196210384</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>4776741</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">60825</SimpleData>
-<SimpleData name="PLACENS">00582686</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2360825</SimpleData>
-<SimpleData name="GEOID">2360825</SimpleData>
-<SimpleData name="NAME">Presque Isle</SimpleData>
-<SimpleData name="LSAD">25</SimpleData>
-<SimpleData name="ALAND">196210384</SimpleData>
-<SimpleData name="AWATER">4776741</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -5503,50 +1759,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Randolph&lt;closeparen&gt;</name>
+<name>Randolph</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>61735</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377950</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2361735</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2361735</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Randolph</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>5529868</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>249138</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">61735</SimpleData>
-<SimpleData name="PLACENS">02377950</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2361735</SimpleData>
-<SimpleData name="GEOID">2361735</SimpleData>
-<SimpleData name="NAME">Randolph</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">5529868</SimpleData>
-<SimpleData name="AWATER">249138</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -5559,50 +1776,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Richmond&lt;closeparen&gt;</name>
+<name>Richmond</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>62610</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377951</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2362610</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2362610</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Richmond</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>18447919</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>0</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">62610</SimpleData>
-<SimpleData name="PLACENS">02377951</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2362610</SimpleData>
-<SimpleData name="GEOID">2362610</SimpleData>
-<SimpleData name="NAME">Richmond</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">18447919</SimpleData>
-<SimpleData name="AWATER">0</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -5615,50 +1793,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Rockland&lt;closeparen&gt;</name>
+<name>Rockland</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>63590</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>00582698</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2363590</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2363590</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Rockland</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>25</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>33258648</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>5774317</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">63590</SimpleData>
-<SimpleData name="PLACENS">00582698</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2363590</SimpleData>
-<SimpleData name="GEOID">2363590</SimpleData>
-<SimpleData name="NAME">Rockland</SimpleData>
-<SimpleData name="LSAD">25</SimpleData>
-<SimpleData name="ALAND">33258648</SimpleData>
-<SimpleData name="AWATER">5774317</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -5671,50 +1810,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Rumford&lt;closeparen&gt;</name>
+<name>Rumford</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>64255</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377952</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2364255</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2364255</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Rumford</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>20372554</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>304699</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">64255</SimpleData>
-<SimpleData name="PLACENS">02377952</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2364255</SimpleData>
-<SimpleData name="GEOID">2364255</SimpleData>
-<SimpleData name="NAME">Rumford</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">20372554</SimpleData>
-<SimpleData name="AWATER">304699</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -5727,50 +1827,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Saco&lt;closeparen&gt;</name>
+<name>Saco</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>64675</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>00582705</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2364675</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2364675</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Saco</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>25</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>99627197</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>37017765</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">64675</SimpleData>
-<SimpleData name="PLACENS">00582705</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2364675</SimpleData>
-<SimpleData name="GEOID">2364675</SimpleData>
-<SimpleData name="NAME">Saco</SimpleData>
-<SimpleData name="LSAD">25</SimpleData>
-<SimpleData name="ALAND">99627197</SimpleData>
-<SimpleData name="AWATER">37017765</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -5783,50 +1844,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Sanford&lt;closeparen&gt;</name>
+<name>Sanford</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>65725</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>00582712</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2365725</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2365725</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Sanford</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>25</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>123773109</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>2500804</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">65725</SimpleData>
-<SimpleData name="PLACENS">00582712</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2365725</SimpleData>
-<SimpleData name="GEOID">2365725</SimpleData>
-<SimpleData name="NAME">Sanford</SimpleData>
-<SimpleData name="LSAD">25</SimpleData>
-<SimpleData name="ALAND">123773109</SimpleData>
-<SimpleData name="AWATER">2500804</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -5839,50 +1861,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Scarborough&lt;closeparen&gt;</name>
+<name>Scarborough</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>66110</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377954</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2366110</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2366110</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Scarborough</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>12880386</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>34431</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">66110</SimpleData>
-<SimpleData name="PLACENS">02377954</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2366110</SimpleData>
-<SimpleData name="GEOID">2366110</SimpleData>
-<SimpleData name="NAME">Scarborough</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">12880386</SimpleData>
-<SimpleData name="AWATER">34431</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -5895,50 +1878,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Searsport&lt;closeparen&gt;</name>
+<name>Searsport</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>66600</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377955</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2366600</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2366600</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Searsport</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>11268027</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>2560900</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">66600</SimpleData>
-<SimpleData name="PLACENS">02377955</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2366600</SimpleData>
-<SimpleData name="GEOID">2366600</SimpleData>
-<SimpleData name="NAME">Searsport</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">11268027</SimpleData>
-<SimpleData name="AWATER">2560900</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -5951,50 +1895,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Skowhegan&lt;closeparen&gt;</name>
+<name>Skowhegan</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>68875</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377956</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2368875</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2368875</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Skowhegan</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>34615578</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>1873307</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">68875</SimpleData>
-<SimpleData name="PLACENS">02377956</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2368875</SimpleData>
-<SimpleData name="GEOID">2368875</SimpleData>
-<SimpleData name="NAME">Skowhegan</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">34615578</SimpleData>
-<SimpleData name="AWATER">1873307</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -6007,50 +1912,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;South Eliot&lt;closeparen&gt;</name>
+<name>South Eliot</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>70660</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377957</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2370660</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2370660</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>South Eliot</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>18626231</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>1076858</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">70660</SimpleData>
-<SimpleData name="PLACENS">02377957</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2370660</SimpleData>
-<SimpleData name="GEOID">2370660</SimpleData>
-<SimpleData name="NAME">South Eliot</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">18626231</SimpleData>
-<SimpleData name="AWATER">1076858</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -6063,50 +1929,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;South Paris&lt;closeparen&gt;</name>
+<name>South Paris</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>71780</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377958</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2371780</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2371780</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>South Paris</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>10043504</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>188855</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">71780</SimpleData>
-<SimpleData name="PLACENS">02377958</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2371780</SimpleData>
-<SimpleData name="GEOID">2371780</SimpleData>
-<SimpleData name="NAME">South Paris</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">10043504</SimpleData>
-<SimpleData name="AWATER">188855</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -6119,50 +1946,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;South Portland&lt;closeparen&gt;</name>
+<name>South Portland</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>71990</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>00582738</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2371990</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2371990</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>South Portland</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>25</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>31191524</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>5101357</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">71990</SimpleData>
-<SimpleData name="PLACENS">00582738</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2371990</SimpleData>
-<SimpleData name="GEOID">2371990</SimpleData>
-<SimpleData name="NAME">South Portland</SimpleData>
-<SimpleData name="LSAD">25</SimpleData>
-<SimpleData name="ALAND">31191524</SimpleData>
-<SimpleData name="AWATER">5101357</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -6175,50 +1963,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;South Windham&lt;closeparen&gt;</name>
+<name>South Windham</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>72900</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02633176</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2372900</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2372900</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>South Windham</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>3092627</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>173356</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">72900</SimpleData>
-<SimpleData name="PLACENS">02633176</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2372900</SimpleData>
-<SimpleData name="GEOID">2372900</SimpleData>
-<SimpleData name="NAME">South Windham</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">3092627</SimpleData>
-<SimpleData name="AWATER">173356</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -6231,50 +1980,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Southwest Harbor&lt;closeparen&gt;</name>
+<name>Southwest Harbor</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>72830</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02630701</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2372830</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2372830</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Southwest Harbor</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>3487876</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>0</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">72830</SimpleData>
-<SimpleData name="PLACENS">02630701</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2372830</SimpleData>
-<SimpleData name="GEOID">2372830</SimpleData>
-<SimpleData name="NAME">Southwest Harbor</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">3487876</SimpleData>
-<SimpleData name="AWATER">0</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -6287,50 +1997,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Standish&lt;closeparen&gt;</name>
+<name>Standish</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>73635</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02583565</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2373635</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2373635</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Standish</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>6936973</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>0</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">73635</SimpleData>
-<SimpleData name="PLACENS">02583565</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2373635</SimpleData>
-<SimpleData name="GEOID">2373635</SimpleData>
-<SimpleData name="NAME">Standish</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">6936973</SimpleData>
-<SimpleData name="AWATER">0</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -6343,50 +2014,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Steep Falls&lt;closeparen&gt;</name>
+<name>Steep Falls</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>73985</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02583566</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2373985</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2373985</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Steep Falls</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>25987420</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>418469</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">73985</SimpleData>
-<SimpleData name="PLACENS">02583566</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2373985</SimpleData>
-<SimpleData name="GEOID">2373985</SimpleData>
-<SimpleData name="NAME">Steep Falls</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">25987420</SimpleData>
-<SimpleData name="AWATER">418469</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -6399,50 +2031,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Thomaston&lt;closeparen&gt;</name>
+<name>Thomaston</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>76330</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377961</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2376330</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2376330</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Thomaston</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>5474041</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>110340</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">76330</SimpleData>
-<SimpleData name="PLACENS">02377961</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2376330</SimpleData>
-<SimpleData name="GEOID">2376330</SimpleData>
-<SimpleData name="NAME">Thomaston</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">5474041</SimpleData>
-<SimpleData name="AWATER">110340</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -6455,50 +2048,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Topsham&lt;closeparen&gt;</name>
+<name>Topsham</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>76925</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377962</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2376925</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2376925</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Topsham</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>28634723</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>371057</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">76925</SimpleData>
-<SimpleData name="PLACENS">02377962</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2376925</SimpleData>
-<SimpleData name="GEOID">2376925</SimpleData>
-<SimpleData name="NAME">Topsham</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">28634723</SimpleData>
-<SimpleData name="AWATER">371057</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -6511,50 +2065,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Unity&lt;closeparen&gt;</name>
+<name>Unity</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>78220</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377963</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2378220</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2378220</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Unity</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>4746062</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>0</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">78220</SimpleData>
-<SimpleData name="PLACENS">02377963</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2378220</SimpleData>
-<SimpleData name="GEOID">2378220</SimpleData>
-<SimpleData name="NAME">Unity</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">4746062</SimpleData>
-<SimpleData name="AWATER">0</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -6567,50 +2082,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Van Buren&lt;closeparen&gt;</name>
+<name>Van Buren</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>78535</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377964</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2378535</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2378535</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Van Buren</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>10848440</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>676577</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">78535</SimpleData>
-<SimpleData name="PLACENS">02377964</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2378535</SimpleData>
-<SimpleData name="GEOID">2378535</SimpleData>
-<SimpleData name="NAME">Van Buren</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">10848440</SimpleData>
-<SimpleData name="AWATER">676577</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -6623,50 +2099,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Waldoboro&lt;closeparen&gt;</name>
+<name>Waldoboro</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>79515</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377965</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2379515</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2379515</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Waldoboro</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>12630763</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>0</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">79515</SimpleData>
-<SimpleData name="PLACENS">02377965</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2379515</SimpleData>
-<SimpleData name="GEOID">2379515</SimpleData>
-<SimpleData name="NAME">Waldoboro</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">12630763</SimpleData>
-<SimpleData name="AWATER">0</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -6679,50 +2116,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Washburn&lt;closeparen&gt;</name>
+<name>Washburn</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>80250</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02583567</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2380250</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2380250</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Washburn</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>11571962</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>156569</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">80250</SimpleData>
-<SimpleData name="PLACENS">02583567</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2380250</SimpleData>
-<SimpleData name="GEOID">2380250</SimpleData>
-<SimpleData name="NAME">Washburn</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">11571962</SimpleData>
-<SimpleData name="AWATER">156569</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -6735,50 +2133,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Waterville&lt;closeparen&gt;</name>
+<name>Waterville</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>80740</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>00582795</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2380740</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2380740</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Waterville</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>25</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>35166367</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>1228036</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">80740</SimpleData>
-<SimpleData name="PLACENS">00582795</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2380740</SimpleData>
-<SimpleData name="GEOID">2380740</SimpleData>
-<SimpleData name="NAME">Waterville</SimpleData>
-<SimpleData name="LSAD">25</SimpleData>
-<SimpleData name="ALAND">35166367</SimpleData>
-<SimpleData name="AWATER">1228036</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -6791,50 +2150,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;West Kennebunk&lt;closeparen&gt;</name>
+<name>West Kennebunk</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>83330</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377966</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2383330</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2383330</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>West Kennebunk</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>9010650</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>0</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">83330</SimpleData>
-<SimpleData name="PLACENS">02377966</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2383330</SimpleData>
-<SimpleData name="GEOID">2383330</SimpleData>
-<SimpleData name="NAME">West Kennebunk</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">9010650</SimpleData>
-<SimpleData name="AWATER">0</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -6847,50 +2167,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Westbrook&lt;closeparen&gt;</name>
+<name>Westbrook</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>82105</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>00582802</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2382105</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2382105</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Westbrook</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>25</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>44429364</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>461639</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">82105</SimpleData>
-<SimpleData name="PLACENS">00582802</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2382105</SimpleData>
-<SimpleData name="GEOID">2382105</SimpleData>
-<SimpleData name="NAME">Westbrook</SimpleData>
-<SimpleData name="LSAD">25</SimpleData>
-<SimpleData name="ALAND">44429364</SimpleData>
-<SimpleData name="AWATER">461639</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -6903,50 +2184,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Wilton&lt;closeparen&gt;</name>
+<name>Wilton</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>85815</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377967</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2385815</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2385815</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Wilton</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>10597483</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>2325204</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">85815</SimpleData>
-<SimpleData name="PLACENS">02377967</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2385815</SimpleData>
-<SimpleData name="GEOID">2385815</SimpleData>
-<SimpleData name="NAME">Wilton</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">10597483</SimpleData>
-<SimpleData name="AWATER">2325204</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -6959,50 +2201,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Winslow&lt;closeparen&gt;</name>
+<name>Winslow</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>86480</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377968</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2386480</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2386480</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Winslow</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>95356658</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>4798926</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">86480</SimpleData>
-<SimpleData name="PLACENS">02377968</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2386480</SimpleData>
-<SimpleData name="GEOID">2386480</SimpleData>
-<SimpleData name="NAME">Winslow</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">95356658</SimpleData>
-<SimpleData name="AWATER">4798926</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -7015,50 +2218,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Winter Harbor&lt;closeparen&gt;</name>
+<name>Winter Harbor</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>86620</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02630702</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2386620</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2386620</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Winter Harbor</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>5617053</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>0</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">86620</SimpleData>
-<SimpleData name="PLACENS">02630702</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2386620</SimpleData>
-<SimpleData name="GEOID">2386620</SimpleData>
-<SimpleData name="NAME">Winter Harbor</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">5617053</SimpleData>
-<SimpleData name="AWATER">0</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -7071,50 +2235,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Winterport&lt;closeparen&gt;</name>
+<name>Winterport</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>86725</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377969</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2386725</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2386725</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Winterport</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>15006032</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>1952021</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">86725</SimpleData>
-<SimpleData name="PLACENS">02377969</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2386725</SimpleData>
-<SimpleData name="GEOID">2386725</SimpleData>
-<SimpleData name="NAME">Winterport</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">15006032</SimpleData>
-<SimpleData name="AWATER">1952021</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -7127,50 +2252,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Winthrop&lt;closeparen&gt;</name>
+<name>Winthrop</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>86935</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377970</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2386935</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2386935</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Winthrop</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>14424404</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>4211969</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">86935</SimpleData>
-<SimpleData name="PLACENS">02377970</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2386935</SimpleData>
-<SimpleData name="GEOID">2386935</SimpleData>
-<SimpleData name="NAME">Winthrop</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">14424404</SimpleData>
-<SimpleData name="AWATER">4211969</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -7183,50 +2269,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Wiscasset&lt;closeparen&gt;</name>
+<name>Wiscasset</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>87040</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377971</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2387040</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2387040</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Wiscasset</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>10098492</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>89403</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">87040</SimpleData>
-<SimpleData name="PLACENS">02377971</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2387040</SimpleData>
-<SimpleData name="GEOID">2387040</SimpleData>
-<SimpleData name="NAME">Wiscasset</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">10098492</SimpleData>
-<SimpleData name="AWATER">89403</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -7239,50 +2286,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Woodland&lt;closeparen&gt;</name>
+<name>Woodland</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>87250</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377972</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2387250</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2387250</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Woodland</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>3062892</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>623796</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">87250</SimpleData>
-<SimpleData name="PLACENS">02377972</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2387250</SimpleData>
-<SimpleData name="GEOID">2387250</SimpleData>
-<SimpleData name="NAME">Woodland</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">3062892</SimpleData>
-<SimpleData name="AWATER">623796</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -7295,50 +2303,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Yarmouth&lt;closeparen&gt;</name>
+<name>Yarmouth</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>87810</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377973</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2387810</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2387810</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Yarmouth</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>13556657</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>290796</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">87810</SimpleData>
-<SimpleData name="PLACENS">02377973</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2387810</SimpleData>
-<SimpleData name="GEOID">2387810</SimpleData>
-<SimpleData name="NAME">Yarmouth</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">13556657</SimpleData>
-<SimpleData name="AWATER">290796</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
@@ -7351,50 +2320,11 @@
 </Polygon>
 </Placemark>
 <Placemark id="cb_2017_23_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;York Harbor&lt;closeparen&gt;</name>
+<name>York Harbor</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>23</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>88160</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02377974</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US2388160</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>2388160</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>York Harbor</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>57</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>8302822</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>745048</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_23_place_500k">
-<SimpleData name="STATEFP">23</SimpleData>
-<SimpleData name="PLACEFP">88160</SimpleData>
-<SimpleData name="PLACENS">02377974</SimpleData>
-<SimpleData name="AFFGEOID">1600000US2388160</SimpleData>
-<SimpleData name="GEOID">2388160</SimpleData>
-<SimpleData name="NAME">York Harbor</SimpleData>
-<SimpleData name="LSAD">57</SimpleData>
-<SimpleData name="ALAND">8302822</SimpleData>
-<SimpleData name="AWATER">745048</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>

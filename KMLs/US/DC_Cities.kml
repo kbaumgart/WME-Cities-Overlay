@@ -52,50 +52,11 @@
 <Folder id="kml_ft_cb_2017_11_place_500k">
 <name>cb_2017_11_place_500k</name>
 <Placemark id="cb_2017_11_place_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;Washington&lt;closeparen&gt;</name>
+<name>Washington</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>11</td>
-</tr><tr bgcolor="">
-<th>PLACEFP</th>
-<td>50000</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>PLACENS</th>
-<td>02390665</td>
-</tr><tr bgcolor="">
-<th>AFFGEOID</th>
-<td>1600000US1150000</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>GEOID</th>
-<td>1150000</td>
-</tr><tr bgcolor="">
-<th>NAME</th>
-<td>Washington</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSAD</th>
-<td>25</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>158351639</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>18675956</td>
-</tr></table></center>]]></description>
+
 <styleUrl>#KMLStyler</styleUrl>
-<ExtendedData>
-<SchemaData schemaUrl="#kml_schema_ft_cb_2017_11_place_500k">
-<SimpleData name="STATEFP">11</SimpleData>
-<SimpleData name="PLACEFP">50000</SimpleData>
-<SimpleData name="PLACENS">02390665</SimpleData>
-<SimpleData name="AFFGEOID">1600000US1150000</SimpleData>
-<SimpleData name="GEOID">1150000</SimpleData>
-<SimpleData name="NAME">Washington</SimpleData>
-<SimpleData name="LSAD">25</SimpleData>
-<SimpleData name="ALAND">158351639</SimpleData>
-<SimpleData name="AWATER">18675956</SimpleData>
-</SchemaData>
-</ExtendedData>
+
 <Polygon>
 <extrude>0</extrude>
 <tessellate>1</tessellate>
